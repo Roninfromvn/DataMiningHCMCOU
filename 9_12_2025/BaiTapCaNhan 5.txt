@@ -1,0 +1,11 @@
+Tập tin Khảo sát món ăn sáng và trưa ưa thích ghi nhận lại các món ăn sáng và trưa ưa thích của các sinh viên với giả định sinh viên sẽ phải dùng bữa sáng và trưa mua tại các xe/tiệm ăn/nhà hàng (có thể là ăn tại chỗ hoặc mua mang đi) và cũng không bị hạn chế tài chính. Mỗi sinh viên được đề nghị tối thiểu 5 món ăn và tối đa 10 món mà họ ưa thích nhất. Khi liệt kê tên món ăn: có thể ghi món ăn chi tiết hơn 1 chút nếu muốn
+VD: Bánh mì chả cá (thay vì chỉ ghi Bánh mì), Cơm tấm sườn bì chả (thay vì chỉ ghi chung Cơm tấm), Phớ tái nạm (thay vì chỉ ghi chung là Phở bò),...
+
+Một danh sách mà sinh viên  ghi ra có thể như sau
+Bánh mì bì, Cơm tấm, Hủ tíu Nam Vang, Bún riêu, Cơm Gà, Cơm cuộn, Hamburger
+
+Yêu cầu
+Anh chị tải vể bảng khảo sát ăn sáng và trưa. Anh chị cần tiền xử lý thông tin trong bảng khảo sát này để có thể sử dụng luật kết hợp nhằm tìm ra xem có các sự liên hệ giữa các món ăn hay không. 
+Yêu cầu: Tìm sự liên hệ (nếu có) chỉ với các món ăn: Cơm (tất cả các loại), Phở (tất cả các loại), Hủ tíu/Mì (tất cả các loại), Bún(tất cả các loại) và Bánh mì (tất cả các loại)
+Lưu ý: Anh chị toàn quyền quyết định việc chuẩn hóa dữ liệu, giá trị minSup và giá trị minConf.
+
