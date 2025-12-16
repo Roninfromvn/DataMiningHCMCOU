@@ -1,0 +1,5 @@
+﻿Tập tin PenDigits-TrainTest.csv (khoảng 10000 dữ lieu) và PenDigits-Predict.csv (khoảng 1000 dữ lieu) chứa thông tin đặc điểm các ký số từ 0..9
+1- Dùng tập tin PenDigits-TrainTest.csv để xây dựng mô hình phân lớp bằng thuật  toán Knn. Sử dung phương pháp huấn luyện K cross validation với K=10. Anh chị thay đổi các tham số của mô hình (số láng giềng gần nhất, độ đo khoảng cách,...) nhiều lần, quan sát các  kết quả trong mỗi lần thay đổi. Sau đó chọn ra 3 mô hình mà anh chị cho là tốt nhất.
+2- Thử nghiệm dự báo phân  lớp từng mô hình trong 3 mô hình mà anh chị đã chọn với tập tin PenDigits-Predict.csv và ghi nhận các kết quả.
+3- Tổng hợp kết quả của câu 1 và 3 trong 1 bảng đánh giá, nhận xét.
+ 
